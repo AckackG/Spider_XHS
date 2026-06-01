@@ -34,3 +34,11 @@ AGENTS.md
 .agent
 docs
 docx
+datas/*
+myscripts/backups/*
+myscripts/mydata_raw/*
+myscripts/target_url.txt
+myscripts/cookie.txt
+postprocess/fez.jsonl
+myscripts/mydata/*
+.env
